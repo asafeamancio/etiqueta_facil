@@ -1,0 +1,18 @@
+# Ignorar ambiente virtual
+venv/
+
+# PyCharm
+.idea/
+
+# Build do PyInstaller
+build/
+dist/
+*.spec
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Pastas de entrada/saída
+pasta1/
+pasta2/
